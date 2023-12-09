@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/attendence_management/static/css/main.d2b4acab.css",
+    "main.js": "/attendence_management/static/js/main.2c92f143.js",
+    "static/js/787.51c07d0b.chunk.js": "/attendence_management/static/js/787.51c07d0b.chunk.js",
+    "index.html": "/attendence_management/index.html",
+    "main.d2b4acab.css.map": "/attendence_management/static/css/main.d2b4acab.css.map",
+    "main.2c92f143.js.map": "/attendence_management/static/js/main.2c92f143.js.map",
+    "787.51c07d0b.chunk.js.map": "/attendence_management/static/js/787.51c07d0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2b4acab.css",
+    "static/js/main.2c92f143.js"
+  ]
+}
